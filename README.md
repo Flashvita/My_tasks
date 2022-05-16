@@ -1,2 +1,2 @@
 # 
-Solving problems from the site Codewars
+Solving tasks from the Codewars website
