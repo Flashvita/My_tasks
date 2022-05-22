@@ -5,7 +5,6 @@ parses out just the domain name and returns it as a string. For example:
 * url = "http://www.zombie-bites.com"         -> domain name = "zombie-bites"
 * url = "https://www.cnet.com"                -> domain name = cne
 """
-from urllib.parse import urlparse
 from urllib.parse import urlsplit
 
 def domain_name(url):
