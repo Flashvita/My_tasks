@@ -22,3 +22,11 @@ def bouncing_ball(h, bounce, window):
             count += 2
         return count
     return -1
+
+
+print(str(bouncing_ball(h=59, bounce=0.52, window=1.5)) + ' раз мяч пролетит мимо мамы')
+print(str(bouncing_ball(h=21, bounce=0.7, window=1.5)) + ' раз мяч пролетит мимо мамы')
+print(str(bouncing_ball(h=39, bounce=0.66, window=1.5)) + ' раз мяч пролетит мимо мамы')
+print(str(bouncing_ball(h=35, bounce=0.62, window=1.5)) + ' раз мяч пролетит мимо мамы')
+print(str(bouncing_ball(h=30, bounce=0.79, window=1.5)) + ' раз мяч пролетит мимо мамы')
+
